@@ -1,0 +1,1 @@
+DROP DATABASE `exercicio04`;
